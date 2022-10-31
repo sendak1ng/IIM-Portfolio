@@ -1,0 +1,40 @@
+body {
+    scroll-behavior: smooth;
+    background-image: url('/images/fond.png');
+}
+
+p {
+    color: white;
+    filter: drop-shadow(0 0 0.2rem black);
+}
+
+h1 {
+    color: white;
+    filter: drop-shadow(0 0 0.1rem #ffffff);
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    color: white;
+    filter: drop-shadow(0 0 0.2rem white);
+    font-family: 'Open Sans', sans-serif;
+}
+
+h5 {
+    color: white;
+    filter: drop-shadow(0 0 0.2rem white);
+}
+
+.carousel-inner img {
+    margin: auto;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.carousel-control-prev {
+    margin: 250px;
+}
+
+.carousel-control-next {
+    margin: 250px;
+}

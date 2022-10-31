@@ -1,0 +1,24 @@
+body {
+    scroll-behavior: smooth;
+    background-image: url('/images/fond.png');
+}
+
+h2 {
+    color: white;
+    filter: drop-shadow(0 0 0.2rem #e5c79f);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.carousel-inner img {
+    margin: auto;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.carousel-control-prev {
+    margin: 250px;
+}
+
+.carousel-control-next {
+    margin: 250px;
+}
